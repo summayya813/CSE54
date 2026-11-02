@@ -1,1 +1,2 @@
-smvce
+smvcer
+computer science and engineering
